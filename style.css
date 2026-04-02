@@ -1,13 +1,13 @@
-* {
+
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+   font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
   }
   
   body {
     background: linear-gradient(135deg, #000000, #000000);
-    color: #4a3a3a;
+    color: #473232;
     min-height: 100vh;
     display: flex;
     align-items: center;
@@ -38,7 +38,7 @@
   }
   
   h1 {
-    color: #ffffff;
+    color: #3b2727;
     margin-bottom: 10px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
   }
